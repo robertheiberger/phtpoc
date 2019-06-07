@@ -1,2 +1,2 @@
 # phtpoc
-Hyper Tuning Example in Python
+Hyperparameter Tuning Example in Python
